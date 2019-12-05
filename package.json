@@ -1,6 +1,6 @@
 {
-  "name": "lazy-k8s",
-  "displayName": "Lazy k8s",
+  "name": "lazy-k8s-windows",
+  "displayName": "Lazy k8s Windows",
   "version": "1.1.1",
   "description": "Apply, Delete, Describe and Get Kubernetes resource definitions with the click of a button",
   "categories": [
@@ -42,39 +42,39 @@
     "commands": [
       {
         "command": "extension.apply",
-        "title": "Lazy k8s: Apply"
+        "title": "Kubectl: Apply"
       },
       {
         "command": "extension.delete",
-        "title": "Lazy k8s: Delete"
+        "title": "Kubectl: Delete"
       },
       {
         "command": "extension.get",
-        "title": "Lazy k8s: Get yaml"
+        "title": "Kubectl: Get yaml"
       },
       {
         "command": "extension.describe",
-        "title": "Lazy k8s: Describe"
+        "title": "Kubectl: Describe"
       },
       {
         "command": "extension.applyWithContext",
-        "title": "Lazy k8s: Apply with context"
+        "title": "Kubectl: Apply with context"
       },
       {
         "command": "extension.deleteWithContext",
-        "title": "Lazy k8s: Delete with context"
+        "title": "Kubectl: Delete with context"
       },
       {
         "command": "extension.getWithContext",
-        "title": "Lazy k8s: Get yaml with context"
+        "title": "Kubectl: Get yaml with context"
       },
       {
         "command": "extension.describeWithContext",
-        "title": "Lazy k8s: Describe with context"
+        "title": "Kubectl: Describe with context"
       },
       {
         "command": "extension.selectContext",
-        "title": "Lazy k8s: Set context"
+        "title": "Kubectl: Set context"
       }
     ],
     "menus": {
