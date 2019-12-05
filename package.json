@@ -175,9 +175,9 @@
     }
   },
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^5.16.0",
+    "vscode": "^1.1.36"
   },
   "dependencies": {
-    "vscode": "^1.1.36"
   }
 }
